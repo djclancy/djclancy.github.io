@@ -48,6 +48,7 @@ Summer B Term 2020: MATH 307 Introduction to Differential Equations - Instructor
 - Fall 2019: MATH 394 Probability I - Grader
 - Summer 2019: MATH 309A Linear Analysis - Instructor
   - [Lecture Notes](/math309/summer2019/index.md)
+<<<<<<< HEAD
 - Spring 2019: RA under Soumik Pal (no teaching)
 - Winter 2019: MATH 307 B Introduction to Differential Equations - Instructor
   - [Course page](/math307/winter2019/math307_winter2019.html)
@@ -64,3 +65,7 @@ Summer B Term 2020: MATH 307 Introduction to Differential Equations - Instructor
 - Spring 2017: MATH 125 BA/BB - Calculus with Analytic Geometry II - TA
 - Winter 2017: MATH 125 BA/BB - Calculus with Analytic Geometry II - TA
 - Fall 2017: MATH 125 BA/BB - Calculus with Analytic Geometry II - TA
+=======
+- 
+
+>>>>>>> parent of d558013... Updated index.md to match closely the index.html file, deleted index.html

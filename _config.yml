@@ -40,6 +40,7 @@ kramdown:
 # Build settings
 theme: minima
 
+
 header_pages:
   -index.md
   -research.md
