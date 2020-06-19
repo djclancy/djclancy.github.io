@@ -1,5 +1,9 @@
 ---
 layout: home
+header_pages:
+  -index.md
+  -research.md
+  -teaching.md
 title: "Research"
 ---
 
