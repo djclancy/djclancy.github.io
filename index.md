@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 docs:
 title: "Home page"
 ---
