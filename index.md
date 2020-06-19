@@ -1,4 +1,9 @@
-# David J. Clancy, Jr.
+---
+layout: home
+---
+## Office Hour Information
+
+<img src="banana.jpg" style="zoom:50%;" />
 
 **Office:** Padelford C-020
 
