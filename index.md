@@ -1,9 +1,5 @@
 ---
 layout: home
-docs:
-  -index.md
-  -research.md
-  -teaching.md
 title: "Home page"
 ---
 
