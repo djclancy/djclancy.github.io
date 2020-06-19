@@ -4,15 +4,14 @@ docs:
   -index.md
   -research.md
   -teaching.md
-
+title: "Teaching"
 ---
-# Teaching
 
-## Current Teaching
+# Current Teaching
 
 Summer B Term 2020: MATH 307 Introduction to Differential Equations - Instructor
 
-## Past Teaching (reverse chronological)
+# Past Teaching (reverse chronological)
 
 - Spring 2020: MATH 307B Introduction to Differential Equations - Instructor
 - Winter 2020: MATH 307F Introduction to Differential Equations - Instructor
