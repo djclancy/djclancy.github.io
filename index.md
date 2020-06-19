@@ -1,6 +1,6 @@
 ---
 layout: home
-header_pages:
+docs:
   -index.md
   -research.md
   -teaching.md
