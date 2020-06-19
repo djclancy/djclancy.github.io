@@ -1,6 +1,6 @@
 ---
 layout: home
-docs:
+header_pages:
 title: "Home page"
 ---
 
