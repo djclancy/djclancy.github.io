@@ -1,5 +1,7 @@
 ---
 layout: home
+docs:
+title: "Home page"
 ---
 
 # Office Hour Information
