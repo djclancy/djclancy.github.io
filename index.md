@@ -1,7 +1,6 @@
 ---
-layout: home
+layout: page
 docs:
-  - index.md
 title: "Home page"
 ---
 
