@@ -1,19 +1,3 @@
----
-layout: default
----
-
-# Office Hour Information
-
-<img src="banana.jpg" style="zoom:50%;" />
-
-**Office:** Padelford C-020
-
-**Office Hours:** (Summer 2019) Online office hours on zoom
-
-**E-mail:** djclancy 'at' uw 'dot' edu
-
-
-
 # Research
 
 ## Research Interests
@@ -31,6 +15,18 @@ I'm a fourth year graduate student at the University of Washington studying prob
 
 - Probability Seminar at the University of Washington. October 28, 2019. "The Gorin-Shkolnikov identity and its random tree generalization."
 - Data driven Problems in Mathematical Finance Session at INFORMS 2019 Annual Meeting. October 22, 2019. "The Gorin-Shkolnikov identity and its random tree generlization."
+
+
+
+# Office Hour Information
+
+
+**Office:** Padelford C-020
+
+**Office Hours:** (Summer 2019) Online office hours on zoom
+
+**E-mail:** djclancy 'at' uw 'dot' edu
+
 
 
 
