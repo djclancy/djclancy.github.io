@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 title: David Clancy
+header_pages: 
+  -index.md
+  -research.md
+  -teaching.md
