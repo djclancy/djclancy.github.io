@@ -1,3 +1,8 @@
+---
+layout = standard
+title = "Summer 2019 MATH 309 Lecture Notes"
+---
+
 # Lecture Notes:  
 These are handwritten notes that may contain some typos.  
 [Week 1](lecture_week1.pdf)  
