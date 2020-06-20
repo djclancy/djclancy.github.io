@@ -1,6 +1,6 @@
 ---
-layout = standard
-title = "Summer 2019 MATH 309 Lecture Notes"
+layout: standard
+title: "Summer 2019 MATH 309 Lecture Notes"
 ---
 
 # Lecture Notes:  
