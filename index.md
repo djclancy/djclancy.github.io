@@ -23,7 +23,7 @@ I'm a fourth year graduate student at the University of Washington studying prob
 
 **Office:** Padelford C-020
 
-**Office Hours:** (Summer 2019) Online office hours on zoom
+**Office Hours:** (Summer 2020) Online office hours on zoom - check Canvas for link.
 
 **E-mail:** djclancy 'at' uw 'dot' edu
 
@@ -35,6 +35,7 @@ I'm a fourth year graduate student at the University of Washington studying prob
 ## Current Teaching
 
 Summer B Term 2020: MATH 307 Introduction to Differential Equations - Instructor
+- [Course Page](/math307/summer2020/index.md)
 
 ## Past Teaching (reverse chronological)
 
