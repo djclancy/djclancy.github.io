@@ -9,7 +9,7 @@ Instructor: David Clancy
 
 Email address: djclancy@uw.edu
 
-Office Hours: I'll have one hour of in-person office hours, and I'll record solutions to several homework questions each week. The solutions will be more-or-less step-by-step solutions. 
+Office Hours: I'll have two hours (Tuesdays 9am-11am Seattle time) of in-person office hours each week, and I'll record solutions to several homework questions each week. The solutions will be more-or-less step-by-step solutions.
 
 Office Hours Location: There will be a zoom link posted on [Canvas](https://canvas.uw.edu/courses/1381873) (class restricted link).
 
