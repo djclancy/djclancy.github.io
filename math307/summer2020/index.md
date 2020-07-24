@@ -13,7 +13,9 @@ Office Hours: I'll have two hours (Thursdays 9am-11am Seattle time) of in-person
 
 Office Hours Location: There will be a zoom link posted on [Canvas](https://canvas.uw.edu/courses/1381873) (class restricted link).
 
+## Useful External Resources
 
+- Slope field plotter: [https://homepages.bluffton.edu/~nesterd/apps/slopefields.html](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
 
 ## Calendar
 
