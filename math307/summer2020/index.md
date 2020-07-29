@@ -13,10 +13,10 @@ Office Hours: I'll have two hours (Thursdays 9am-11am Seattle time) of in-person
 
 Office Hours Location: There will be a zoom link posted on [Canvas](https://canvas.uw.edu/courses/1381873) (class restricted link).
 
-## Useful External Resources
+## Useful External Resources (included roughly in the order they are used in class)
 
 - Slope field plotter: [https://homepages.bluffton.edu/~nesterd/apps/slopefields.html](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
-
+- The Euler's method notebook that I used in class. (I think mostly useful for the function called Euler in the code). [here](EulersMethod.ipynb)
 ## Calendar
 
 This course is just during the Summer B term which lasts July 23, 2020 - August 21, 2020. It is just over 4 weeks. 
@@ -41,9 +41,6 @@ This course is just during the Summer B term which lasts July 23, 2020 - August 
 
 
 
-
-
-## Helpful Tools
 
 
 
