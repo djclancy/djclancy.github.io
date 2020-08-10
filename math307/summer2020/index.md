@@ -18,6 +18,7 @@ Office Hours Location: There will be a zoom link posted on [Canvas](https://canv
 - Slope field plotter: [https://homepages.bluffton.edu/~nesterd/apps/slopefields.html](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
 - The Euler's method notebook that I used in class. (I think mostly useful for the function called Euler in the code). [here](EulersMethod.ipynb)
 - Paul's math notes for autonomous differential equations. [here](https://tutorial.math.lamar.edu/Classes/DE/EquilibriumSolutions.aspx)
+- Paul's math notes for partial fractions: [here](https://tutorial.math.lamar.edu/Classes/Alg/PartialFractions.aspx)
 ## Calendar
 
 This course is just during the Summer B term which lasts July 23, 2020 - August 21, 2020. It is just over 4 weeks. 
