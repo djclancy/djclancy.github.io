@@ -19,7 +19,7 @@ Office Hours Location: There will be a zoom link posted on [Canvas](https://canv
 - The Euler's method notebook that I used in class. (I think mostly useful for the function called Euler in the code). [here](EulersMethod.ipynb)
 - Paul's math notes for autonomous differential equations. [here](https://tutorial.math.lamar.edu/Classes/DE/EquilibriumSolutions.aspx)
 - Paul's math notes for partial fractions: [here](https://tutorial.math.lamar.edu/Classes/Alg/PartialFractions.aspx)
-- Desmos graphing tool for damped harmonic oscillators: [here](https://www.desmos.com/calculator/rcwt08zoy1) 
+- Desmos graphing tool for damped harmonic oscillators: [here](https://www.desmos.com/calculator/bt2tlianqd) 
   - Can be used to visualize how changing various physical properties of the graph (e.g. damping constant, mass, forcing frequency) affects the behaviour of the solution.
 ## Calendar
 
