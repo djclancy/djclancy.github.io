@@ -11,6 +11,10 @@ I'm a fourth year graduate student at the University of Washington studying prob
 - [A new relationship between Erd&#337;s-R&#0233;nyi graphs and epidemic models and Brownian motion with parabolic drift](https://arxiv.org/abs/2006.06838) (June 2020)
 - [The Gorin-Shkolnikov identity and its random tree generalization](https://arxiv.org/abs/1910.08672) (October 2019)
 
+## Non-arXiv work
+
+- [A Mutli-type Ray-Knight Theorem](non_arxiv_papers/multi.type.ray.knight.pdf) (December 2019)
+
 ## Talks (reverse chronological)
 
 - Probability Seminar at the University of Washington. October 28, 2019. "The Gorin-Shkolnikov identity and its random tree generalization."
