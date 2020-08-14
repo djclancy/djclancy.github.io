@@ -45,4 +45,4 @@ This course is just during the Summer B term which lasts July 23, 2020 - August 
 
 
 
-
+\\[f(x)=x^2\\]
