@@ -5,7 +5,7 @@ title: Solving ODEs Using Laplace Transforms
 
 In this note, I'll describe how to solve a general second order constant coefficient ODE with a general forcing function $f(t)$. That is, we'll solve
 \begin{equation} 
-\label{eqn:IVPgen} \left\{ \begin{array}{l}  ay''+by'+cy = f(t)\\ y(0) = y_0 \\ y'(0) = y_1 \end{array} \right..
+\label{eqn:IVPgen}   ay''+by'+cy = f(t),\qquad  y(0) = y_0, \qquad  y'(0) = y_1  .
 \end{equation}
 
 We'll require the following few rules for Laplace transforms and their correspinding inverses:
@@ -18,12 +18,12 @@ We'll require the following few rules for Laplace transforms and their correspin
 
 Applying rules \eqref{eqn:f'} and \eqref{eqn:f''} to the IVP in \eqref{eqn:IVPgen} gives
 \begin{equation*}
-\mathcal{L}\left(ay''+by'+cy\right) &= \mathcal{L}(f)
+\mathcal{L}\left(ay''+by'+cy\right) = \mathcal{L}(f)
 \end{equation*} 
 \begin{equation*}
-a\left(s^2Y(s)-sy(0)-y'(0) \right) + b \left( sY(s) -y(0)\right) + c\left( Y(s) \right) &= F(s)\end{equation*}
+a\left(s^2Y(s)-sy(0)-y'(0) \right) + b \left( sY(s) -y(0)\right) + c\left( Y(s) \right) = F(s)\end{equation*}
 \begin{equation*}
-\left(as^2+bs+c\right)Y(s) - \left(asy_0 + ay_1 + by_1\right) &= F(s).
+\left(as^2+bs+c\right)Y(s) - \left(asy_0 + ay_1 + by_1\right) = F(s).
 \end{equation*} Rearranging gives
 \begin{equation} \label{eqn:Y}
 Y(s) = F(s) \left(\frac{1}{as^2+bs+c} \right) + \frac{asy_0+ay_1+by_0}{as^2+bs+c}.
