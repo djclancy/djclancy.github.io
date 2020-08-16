@@ -1,7 +1,11 @@
 ---
 layout: standard
-title: Solving ODEs Using Laplace Transforms
+title: General Solution Using Laplace Transforms
 ---
+
+[Back to index](index.md)
+
+
 
 In this note, I'll describe how to solve a general second order constant coefficient ODE with a general forcing function $f(t)$. That is, we'll solve
 \begin{equation}\label{eqn:IVPgen}
@@ -39,11 +43,10 @@ We will rewrite this as
 Y(s) = F(s) H(s) + \Phi(s),
 \end{equation}
 where
-
 $$
 H(s) = \frac{1}{as^2+bs+c},\qquad 
 \Phi(s) = \frac{asy_0+ay_1+by_0}{as^2+bs+c}.
-$$ 
+$$
 
 It is difficult to write out general explicit formulas for the inverse Laplace transforms of $H$ and $\Phi$, so instead we'll say that we can take the inverse Laplace transform and write it as
 
@@ -55,7 +58,7 @@ What are the fuctions $\phi$ and $h$ representing? Well, $h$ has Laplace transfo
 
 $$
 \mathcal{L}(h) = \frac{1}{as^2+bs+c},
-$$ 
+$$
 
 which is also the same as the solution to the initial value problem
 
