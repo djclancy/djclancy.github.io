@@ -72,11 +72,13 @@ $$
 (You can check both of these using rules \eqref{eqn:f'} and \eqref{eqn:f''}.)
 
 Now we can use the inverse of the rule in \eqref{eqn:convLT} to write
+
 $$
 \mathcal{L}^{-1} \left( F(s) H(s) \right) = \left( f \ast h \right) (t) = \int_0^t h(\tau) f(t-\tau)\,d\tau.
 $$
 
 Consequently, we can invert the Laplace transform in \eqref{eqn:Y2} and write
+
 $$
 y(t) = \phi(t) + (f\ast h)(t) = \phi(t) + \int_0^t h(\tau)f(t-\tau)\,d\tau.
 $$
