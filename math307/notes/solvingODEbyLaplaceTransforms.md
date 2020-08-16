@@ -4,8 +4,8 @@ title: Solving ODEs Using Laplace Transforms
 ---
 
 In this note, I'll describe how to solve a general second order constant coefficient ODE with a general forcing function $f(t)$. That is, we'll solve
-\begin{equation} 
-\label{eqn:IVPgen}   ay''+by'+cy = f(t),\qquad  y(0) = y_0, \qquad  y'(0) = y_1  .
+\begin{equation}\label{eqn:IVPgen}
+ay''+by'+cy = f(t),\qquad  y(0) = y_0, \qquad  y'(0) = y_1  .
 \end{equation}
 
 We'll require the following few rules for Laplace transforms and their correspinding inverses:
@@ -52,10 +52,31 @@ h(t) = \mathscr{L}^{-1}(H),\qquad \phi(t) = \mathscr{L}^{-1}(\Phi).
 $$
 
 What are the fuctions $\phi$ and $h$ representing? Well, $h$ has Laplace transform
+
 $$
 \mathcal{L}(h) = \frac{1}{as^2+bs+c},
-$$ which is also the same as the solution to the initial value problem
+$$ 
+
+which is also the same as the solution to the initial value problem
+
 $$
 ay''+by'+cy = \delta_0(t),\qquad y(0) = 0,\quad y'(0) = 0.
 $$
 
+Similarly, the function $\phi$ has the same Laplace transform as the solution to the initical value problem
+
+$$
+ay''+ by'+ cy = 0,\qquad y(0) = y_0, \qquad y'(0) = y_1.
+$$
+
+(You can check both of these using rules \eqref{eqn:f'} and \eqref{eqn:f''}.)
+
+Now we can use the inverse of the rule in \eqref{eqn:convLT} to write
+$$
+\mathcal{L}^{-1} \left( F(s) H(s) \right) = \left( f \ast h \right) (t) = \int_0^t h(\tau) f(t-\tau)\,d\tau.
+$$
+
+Consequently, we can invert the Laplace transform in \eqref{eqn:Y2} and write
+$$
+y(t) = \phi(t) + (f\ast h)(t) = \phi(t) + \int_0^t h(\tau)f(t-\tau)\,d\tau.
+$$
