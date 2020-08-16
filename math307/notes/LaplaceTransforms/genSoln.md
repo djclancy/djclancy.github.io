@@ -3,7 +3,7 @@ layout: standard
 title: General Solution Using Laplace Transforms
 ---
 
-[Back to index](index.md)
+[Back to index](/../index.md)
 
 
 
