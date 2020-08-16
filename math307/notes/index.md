@@ -1,6 +1,6 @@
 ---
 layout: standard
-title: Some Extra Notes
+title: "Some Extra Notes"
 ---
 
 Laplace Transforms:
