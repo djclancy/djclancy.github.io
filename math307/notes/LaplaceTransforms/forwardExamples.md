@@ -9,12 +9,95 @@ title: "Some Examples of Laplace Transforms"
 
 ## Example 1
 
+
+
+Consider the function 
+
+
+$$
+f(t) = e^{3t}t + e^{\pi t} u_\pi.
+$$
+
+
+We can look at the [table](Laplace.Transform.Table.pdf) and see that 
+
+
+$$
+\mathcal{L}(e^{\alpha t}g(t)) = G(s-\alpha)\qquad \text{where}\qquad \mathcal{L}(g) = G(s).
+$$
+
+
+Then
+
+
+$$
+\mathcal{L}(t) = \frac{1}{s^2},\qquad \text{so }\qquad \mathcal{L}(e^{3t}t) = \frac{1}{(s-3)^2}.
+$$
+
+
+Similarly, we need to write
+
+
+$$
+e^{\pi t}u_\pi = g(t-\pi) u_\pi,
+$$
+
+
+which means
+
+
+$$
+g(t-\pi) = e^{\pi t}\qquad\text{and}\qquad  g\left((t+\pi) -\pi \right) = e^{\pi(t+\pi)} = e^{\pi^2+\pi t}.
+$$
+
+
+So 
+
+
+$$
+g(t) = g(t+\pi-\pi) = e^{\pi^2} e^{\pi t},
+$$
+
+
+and
+$$
+\mathcal{L}(g) = e^{\pi^2} \frac{1}{s-\pi}
+$$
+
+
+So
+$$
+\mathcal{L}(e^{\pi t} u_\pi) = \mathcal{L}(g(t-\pi) u_\pi)\\
+=e^{-\pi s}\mathcal{L}(g)\\
+= e^{-\pi s} e^{\pi^2} \frac{1}{s-\pi}\\
+= e^{\pi^2 -\pi s} \frac{1}{s-\pi}.
+$$
+
+
+
+
+Combining these two facts gives
+
+
+$$
+\mathcal{L}\left(e^{3t}t + e^{\pi t}u_\pi\right)  = \frac{1}{(s-3)^2} + \frac{e^{\pi^2-\pi s}}{s-\pi}.
+$$
+
+
+
+
+
+
+## Example 2
+
 Consider the function 
 
 
 $$
 f(t) = 7e^{3t} + 2t u_{9} + 2t^2 u_{5}.
 $$
+
+
 We wish to use the [table](Laplace.Transform.Table.pdf) but in order to do that we need to include terms like $g(t-c)u_c$ instead of just $g(t)u_c$. 
 
 
@@ -111,7 +194,7 @@ where $G$ and $H$ are defined above.
 
 
 
-## Example 2
+## Example 3
 
 Taking the Laplace transform of
 
