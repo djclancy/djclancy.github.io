@@ -10,6 +10,6 @@ Laplace Transforms:
 
 Examples
 
-- [Writing piecewise functions with Heaviside functions](LaplaceTransforsm/stepExamples.md)
+- [Writing piecewise functions with Heaviside functions](LaplaceTransforms/stepExamples.md)
 - [Taking Laplace Transforms](LaplaceTransforms/forwardExamples)
 
