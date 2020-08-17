@@ -5,7 +5,113 @@ title: "Some Examples of Laplace Transforms"
 
 [Back to Notes](/../index.md)
 
+
+
 ## Example 1
+
+Consider the function 
+
+
+$$
+f(t) = 7e^{3t} + 2t u_{9} + 2t^2 u_{5}.
+$$
+We wish to use the [table](Laplace.Transform.Table.pdf) but in order to do that we need to include terms like $g(t-c)u_c$ instead of just $g(t)u_c$. 
+
+
+
+That means, we want
+
+
+$$
+2tu_9 = g(t-9)u_9\\
+t^2 u_5 = h(t-5)u_5.
+$$
+
+
+This means that 
+
+
+$$
+g(t-9) = 2t\\
+h(t-5) = 2t^2.
+$$
+
+
+If we use a dummy variable of $x = t-9$ and $t = x+9$ for $g(t-9)$, we get
+
+
+$$
+g(x) = g(t-9) = 2t= 2(x+9) = 2x + 18,
+$$
+
+
+and since $x$ was a dummy variable we can replace $x$ by $t$ in the extreme ends
+
+
+$$
+g(x) = 2x+18 \rightsquigarrow g(t) = 2t+18.
+$$
+
+
+Then 
+
+
+$$
+G(s) = \mathcal{L}(g) = \mathcal{L}\left(2t+18 \right) = \frac{2}{s^2}+ \frac{18}{s}.
+$$
+
+
+
+
+Similarly, if we set $x = t-5$ and $t = x+5$ for the $h$ function gives
+
+
+$$
+h(x) = h(t-5) =2t^2 = 2(x+5)^2 = 2x^2 +20x + 50.
+$$
+
+
+And so 
+
+
+$$
+h(t) = 2t^2+20t + 50.
+$$
+
+
+Then 
+
+
+$$
+H(s) = \mathcal{L}(h) = \mathcal{L}(2t^2+20t+5) = \frac{4}{s^3} + \frac{20}{s^2}+ \frac{5}{s}
+$$
+
+
+
+
+Hence
+
+
+$$
+\mathcal{L}(f) = \mathcal{L}\left(7e^{3t} + 2t u_9 +t^2 u_5 \right)\\
+= 7\mathcal{L}\left(e^{3t} \right) + \mathcal{L}(g(t-9)u_9 ) + \mathcal{L}(h(t-5)u_5)\\
+= \frac{7}{s-3} + e^{-9s} G(s) + e^{-5s}H(s)
+$$
+
+
+where $G$ and $H$ are defined above.
+
+
+
+
+
+
+
+
+
+
+
+## Example 2
 
 Taking the Laplace transform of
 
@@ -140,7 +246,7 @@ h(x) = h(t-2\pi)\\
 = \sin(x+2\pi )\\
 =\sin(x),
 $$
- 
+
 
 and so $h(t) = \sin(t)$ and
 
