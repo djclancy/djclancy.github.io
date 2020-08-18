@@ -12,4 +12,5 @@ Examples
 
 - [Writing piecewise functions with Heaviside functions](LaplaceTransforms/stepExamples.md)
 - [Taking Laplace Transforms](LaplaceTransforms/forwardExamples)
+- [Inverse Laplace Transforms](LaplaceTransforms/inverseExamples.md)
 
