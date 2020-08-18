@@ -106,7 +106,7 @@ Multiplying by the denominator on the left hand side gives:
 
 \begin{equation} \label{eqn:2}
 
-24s = A(s^2+8s+31) + (Bs+C)(s+1).
+24s = A(s^{2} +8s+31) + (Bs+C)(s+1).
 
 \end{equation}
 
@@ -143,7 +143,7 @@ and therefore
 
 
 
-\begin{equation }\label{eqn:3}
+\begin{equation} \label{eqn:3}
 
 F(s) = \frac{24}{(s+1)(s^2+8s+31) } = -\frac{1}{s+1} + \frac{s+31}{s^2+8s+31}.
 
