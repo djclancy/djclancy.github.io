@@ -218,10 +218,75 @@ $$
 
 
 
+## Example 3
+
+
+
+Consider the function
 
 
 $$
-
+F(s) = \frac{se^{-2s}}{s^2+4s+13} + \frac{e^{-\pi s}}{s+7}.
 $$
 
 
+Whenever we see an inverse Laplace transform problem that has an $e^{-cs}$ term in it we factor out that term. That is we re-write
+
+
+$$
+F(s) = e^{-2s} \left(\frac{s}{s^2+4s+13}\right) + e^{-\pi s}\left( \frac{1}{s+7}\right).\\
+= e^{-2s} G(s) + e^{-\pi s} H(s),
+$$
+
+
+where
+
+
+$$
+G(s) = \frac{s}{s^2+4s+13} = \frac{s}{(s+2)^2+3^2}\\
+ = \frac{(s+2-2)}{(s+2)^2+3^2} \\
+ = \frac{s+2}{(s+2)^2+3^2} - \frac{2}{3} \frac{3}{(s+2)^2+3^2}
+$$
+
+
+and
+
+
+$$
+H(s) = \frac{1}{s+7}.
+$$
+
+
+
+
+Then
+
+
+$$
+g(t) = \mathcal{L}^{-1}\left(G(s) \right) = \mathcal{L}^{-1} \left(  \frac{s+2}{(s+2)^2+3^2} - \frac{2}{3} \frac{3}{(s+2)^2+3^2}\right)\\
+= e^{-2t}\cos(3t)+ \frac{2}{3} e^{-2t} \sin(3t),\\
+h(t) = \mathcal{L}^{-1}\left(H(s)\right) = e^{-7t}.
+$$
+
+
+
+
+Therefore, by equation (12) in the [table](Laplace.Transform.Table.pdf), we can write
+
+
+$$
+\mathcal{L}^{-1}(e^{-2s}G(s)) = g(t-2) u_2\\
+\mathcal{L}^{-1}(e^{-\pi s}) = h(t-\pi) u_\pi.
+$$
+
+
+Therefore,
+
+
+$$
+\mathcal{L}^{-1} \left( \frac{se^{-2s}}{s^2+4s+13} + \frac{e^{-\pi s}}{s+7}\right)= \mathcal{L}^{-1}\left(e^{-2s} G(s) + e^{-\pi s} H(s)\right)\\
+= g(t-2)u_2 + h(t-\pi)u_\pi,
+$$
+
+
+where $g$ and $h$ are as defined above.
