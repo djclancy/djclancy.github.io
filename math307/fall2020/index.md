@@ -47,7 +47,3 @@ This course is just during the Fall 2020 term and is being held online. The lect
 
 The last two weeks are a little jumbled, and there may be some overlap with the videos. 
 
-
-
-## Grades
-
