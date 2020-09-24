@@ -15,6 +15,10 @@ Office Hours Location: There will be a zoom link posted on [Canvas](https://canv
 
 ## Useful External Resources (included roughly in the order they are used in class)
 
+I've written some notes and extra problems [here](../index)
+
+Some more problems from a different instructor are [here](https://drive.google.com/file/d/1t0IWImzrKGWGxqxmO5ZA24goBmXFlt40/view)
+
 - Slope field plotter: [https://homepages.bluffton.edu/~nesterd/apps/slopefields.html](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
 - The Euler's method notebook that I used in class. (I think mostly useful for the function called Euler in the code). [here](EulersMethod.ipynb)
 - Paul's math notes for autonomous differential equations. [here](https://tutorial.math.lamar.edu/Classes/DE/EquilibriumSolutions.aspx)
