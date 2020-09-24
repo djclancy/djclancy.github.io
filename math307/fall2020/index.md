@@ -15,7 +15,7 @@ Office Hours Location: There will be a zoom link posted on [Canvas](https://canv
 
 ## Useful External Resources (included roughly in the order they are used in class)
 
-I've written some notes and extra problems [here](../index)
+I've written some notes and extra problems [here](../notes/index)
 
 Some more problems from a different instructor are [here](https://drive.google.com/file/d/1t0IWImzrKGWGxqxmO5ZA24goBmXFlt40/view)
 
