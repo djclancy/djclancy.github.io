@@ -38,12 +38,16 @@ I'm a fourth year graduate student at the University of Washington studying prob
 
 ## Current Teaching
 
-Summer B Term 2020: MATH 307 Introduction to Differential Equations - Instructor
-- [Course Page](/math307/summer2020/index.md)
-- [Canvas Page](https://canvas.uw.edu/courses/1381873)
+Fall 2020: MATH 307 Introduction to Differential equations - Instructor
+
+- [Course Page](/math307/fall2020/index.md)
+- [Canvas Page](https://canvas.uw.edu/courses/1400239)
 
 ## Past Teaching (reverse chronological)
 
+- Summer B Term 2020: MATH 307 Introduction to Differential Equations - Instructor
+  - [Course Page](/math307/summer2020/index.md)
+  - [Canvas Page](https://canvas.uw.edu/courses/1381873)
 - Spring 2020: MATH 307B Introduction to Differential Equations - Instructor
 - Winter 2020: MATH 307F Introduction to Differential Equations - Instructor
 - Fall 2019: MATH 394 Probability I - Grader
