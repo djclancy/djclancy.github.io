@@ -3,7 +3,7 @@ layout: standard
 title: "Fall 2020 J Term MATH 307"
 ---
 
-# MATH 307F: Introduction to Differential Equations
+# MATH 307J: Introduction to Differential Equations
 
 Instructor: David Clancy
 
