@@ -85,7 +85,7 @@ We always write $t_n - t_{n-1} = \Delta t$. We stop after step $n = 4$ because t
 
 The error can be seen with the following image:
 
-![](\images\euler1.1.png)
+![](/images/euler1.1.png)
 
 Above the red line is the approximation from Euler's method (with straight lines drawn between the points computed above) and the green line is the actual solution.
 
@@ -114,7 +114,7 @@ Here is the associated graphical depiction of what the above table does.
 
 
 
-![](\images\euler1.2.png)
+![](/images/euler1.2.png)
 
 
 
@@ -149,6 +149,6 @@ I'll just include a table with all the important information with approximations
 
 Here's the image:
 
-![](\images\euler2.1.png)
+![](/images/euler2.1.png)
 
 As you can see, the red solution is very close to the actual solution (shown in green). This is partly because we chose $\Delta t = 0.2$ which is fairly small. It is also, in part, due to the particular differential equation we worked with.
