@@ -29,6 +29,8 @@ y' &= 6y\\
 \frac{dy}{y}  &= 6\,dt\\
 \end{split}
 $$
+
+
 Once we are at this point, we integrate both sides
 
 
