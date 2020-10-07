@@ -72,7 +72,7 @@ To handle the initial condition we just plug in the initial value:
 $$
 3 = y(0) = A e^{0} = A
 $$
- 
+
 
 and so 
 $$
@@ -104,7 +104,7 @@ $$
 \frac{dy}{y+3} = 2\,dt
 \end{split}
 $$
- 
+
 
 and then we integrate:
 
@@ -186,15 +186,16 @@ $$
 (\mu y)' = \mu y' + \mu' y = \mu y' - 5\mu y .
 $$
 
-
 We can match the $\mu y'$ terms together which leads to:
+
+
 $$
 \mu' y = -5\mu y,\qquad \text{   and so   }\qquad \mu' = -5\mu.
 $$
 
 
-The right-most equation above can be solved as the first two examples and has a general solution of the form:
 
+The right-most equation above can be solved as the first two examples and has a general solution of the form:
 
 $$
 \mu = A e^{-5t}.
@@ -212,8 +213,9 @@ $$
 (e^{-5t} y)' = 6 e^{-5t}.
 $$
 
-
 By the fundamental theorem of calculus we know that if $f(t)$ is a function such that 
+
+
 $$
 f'(t) = 6e^{-5t},\qquad\text{then}\qquad f(t) = \int 6e^{-5t} = -\frac{6}{5} e^{-5t} + C.
 $$
