@@ -221,9 +221,21 @@ But we know that $(e^{-5t}y)' = 6e^{-5t}$ and so we must have:
 
 
 $$
+e^{-5t} y = -\frac{6}{5} e^{-5t} + C,\qquad \text{or by dividing by }e^{-5t}  \qquad y(t) = -\frac{6}{5} + C e^{5t}.
+$$
+
+
+We can then use the initial condition $y(0) = 3$ to get
+
+
+$$
+3 = y(0) = -\frac{6}{5} + C e^{5\times 0} = -\frac{6}{5} +C,\qquad\text{so}\qquad C = \frac{21}{5}.
+$$
+
 
 Thus
 
 
+$$
 y(t) = -\frac{6}{5}+ \frac{21}{5} e^{5t}.
 $$
