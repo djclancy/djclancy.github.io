@@ -17,8 +17,10 @@ I'm a fourth year graduate student at the University of Washington studying prob
 
 ## Talks (reverse chronological)
 
+- Probability Seminar at the University of Washington. October 5, 2020. "Aldous's *Brownian excursions, critical random graphs and the multiplicative coalescent.*" 
+  - The above talk was part of the Hidden Gems part of the Probability Seminar, where graduate students presented a groundbreaking paper in an area related to their research. My slides can be found [here](/non_arxiv_papers/talks/AldousERHiddenGems.pdf).
 - Probability Seminar at the University of Washington. October 28, 2019. "The Gorin-Shkolnikov identity and its random tree generalization."
-- Data driven Problems in Mathematical Finance Session at INFORMS 2019 Annual Meeting. October 22, 2019. "The Gorin-Shkolnikov identity and its random tree generlization."
+- Data driven Problems in Mathematical Finance Session at INFORMS 2019 Annual Meeting. October 22, 2019. "The Gorin-Shkolnikov identity and its random tree generalization."
 
 
 
