@@ -75,9 +75,9 @@ $$
 \begin{split}
 \frac{dy}{y} &= \frac{3+\sin t}{\pi}\,dt\\
 \int \frac{dy}{y} &= \int \frac{3+\sin t}{\pi} \,dt\\
-\ln |y| &= \frac{3}{\pi}t - \frac{1}{\pi} \sin t + C\\
-|y| &= \exp\left(\frac{3}{\pi}t -\frac{1}{\pi}\sin t + C \right)\\
-y &= \pm e^C\exp\left(\frac{3}{\pi}t -\frac{1}{\pi}\sin t \right)\\
-y&= A\exp\left(\frac{3}{\pi}t -\frac{1}{\pi}\sin t \right).
+\ln |y| &= \frac{3}{\pi}t - \frac{1}{\pi} \cos t + C\\
+|y| &= \exp\left(\frac{3}{\pi}t -\frac{1}{\pi}\cos t + C \right)\\
+y &= \pm e^C\exp\left(\frac{3}{\pi}t -\frac{1}{\pi}\cos t \right)\\
+y&= A\exp\left(\frac{3}{\pi}t -\frac{1}{\pi}\cos t \right).
 \end{split}
 $$
