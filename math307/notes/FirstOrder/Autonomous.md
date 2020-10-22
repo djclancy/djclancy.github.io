@@ -136,3 +136,30 @@ The graph of $f$ is massive in some areas and small in some areas as well. By th
 
 But from here we can draw the phase diagram:
 
+![](/images/aut2.2.png)
+
+
+
+Neglecting my poor handwriting, from here we can see the following stability:
+
+- 5 is unstable
+- 0 is stable
+- -1 and -6 are semistable.
+
+
+
+The limits can be computed as well 
+
+
+$$
+\begin{split}L(y_0) &= \lim_{t\to\infty} y(t),\\
+\text{when }\qquad y' &= f(y) ,\quad \text{and}\quad y(0) = y_0.\end{split}
+$$
+
+
+- When $y_0>5$, the limit is $\infty$
+- When $0<y_0<5$ the limit is $0$
+- When $-1<y_0<0$ the limit is $0$
+- When $-6<y_0<-1$ the limit is $-1$
+- When $y_0<-6$ the limit is $-6$.
+
