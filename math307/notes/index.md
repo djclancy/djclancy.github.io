@@ -13,6 +13,7 @@ Examples
 - [Euler's Method](/FirstOrder/EulersMethod.md)
 - [Separable ODEs](/FirstOrder/Separable.md)
 - [First Order Constant Coefficient ODEs](/FirstOrder/FirstOrderConstant.md)
+- [General Linear Differential Equations](/FirstOrder/LinearFirst.md)
 - [Autonomous Differential Equations](/FirstOrder/Autonomous.md)
 - [Writing piecewise functions with Heaviside functions](LaplaceTransforms/stepExamples.md)
 - [Taking Laplace Transforms](LaplaceTransforms/forwardExamples)
