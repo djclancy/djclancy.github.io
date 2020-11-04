@@ -19,6 +19,8 @@ Examples
 - Second Order
   - [Second Order Homogeneous ODEs](SecondOrder/SecondOrderODEs.md)
   - [Second Order Homogeneous IVPs](/SecondOrder/SecondOrderIVPs.md)
+  - [Method of Undetermined Coefficients](/SecondOrder/MethodUndeterminedCoeff)
+  - [A collection of Guesses for Method of Undetermined Coefficients](/SecondOrder/Guesses.md)
 - Laplace Transforms
   - [Writing piecewise functions with Heaviside functions](LaplaceTransforms/stepExamples.md)
   - [Taking Laplace Transforms](LaplaceTransforms/forwardExamples)
