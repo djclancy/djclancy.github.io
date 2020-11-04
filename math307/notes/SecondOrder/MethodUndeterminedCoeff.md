@@ -2,7 +2,6 @@
 layout: standard
 title: "Method of Undetermined Coefficients"
 
-
 ---
 
 [Back to index](/../index.md)
